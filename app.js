@@ -2,23 +2,19 @@ var express = require('express'),
     fs = require('fs');
 var app = express();
 
-var options = {
-  root: __dirname + '/public/'
-};
-
 function docPath(req, addPath, ending) {
-  return addPath + '/' + req.params.doc + '.' + ending;
+  return __dirname + '/public/' + addPath + '/' + req.params.doc + '.' + ending;
 }
 
 function sendFile(req, res, addPath, ending) {
-  res.sendFile(docPath(req, addPath, ending), options);
+  res.sendFile(docPath(req, addPath, ending));
 }
 
 function writeFile(req, res, addPath, ending) {
   var doc = '';
   req.on('data', function(data) { doc += data; });
   req.on('end', function() {
-    var path = __dirname + '/public/' + docPath(req, addPath, ending);
+    var path = docPath(req, addPath, ending);
     fs.writeFile(path, doc, function() { res.end(); });
   });
 }
