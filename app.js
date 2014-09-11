@@ -29,21 +29,24 @@ app.all('*', function(req, res, next) {
   next();
 });
 
-app.get('/examples/treebanks/:doc', function(req, res) {
-  sendFile(req, res, 'treebanks', 'xml');
-});
+var exampleFileRoutes = {
+  'treebanks': 'xml',
+  'translations': 'json'
+};
 
-app.post('/examples/treebanks/:doc', function(req, res) {
-  writeFile(req, res, 'treebanks', 'xml');
-});
+function get(route, fileType) {
+  return function(req, res) { sendFile(req, res, route, fileType); };
+}
 
-app.get('/examples/translations/:doc', function(req, res) {
-  sendFile(req, res, 'translations', 'json');
-});
+function post(route, fileType) {
+  return function(req, res) { writeFile(req, res, route, fileType); };
+}
 
-app.post('/examples/translations/:doc', function(req, res) {
-  writeFile(req, res, 'translations', 'json');
-});
+for (var route in exampleFileRoutes) {
+  var fileType = exampleFileRoutes[route];
+  app.get( '/examples/' + route + '/:doc', get(route, fileType));
+  app.post('/examples/' + route + '/:doc', post(route, fileType));
+}
 
 
 var port = process.argv[2] || 8082;
