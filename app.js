@@ -1,12 +1,26 @@
-var express = require('express');
+var express = require('express'),
+    fs = require('fs');
 var app = express();
 
 var options = {
   root: __dirname + '/public/'
 };
 
+function docPath(req, addPath, ending) {
+  return addPath + '/' + req.params.doc + '.' + ending;
+}
+
 function sendFile(req, res, addPath, ending) {
-  res.sendFile(addPath + '/' + req.params.doc + '.' + ending, options);
+  res.sendFile(docPath(req, addPath, ending), options);
+}
+
+function writeFile(req, res, addPath, ending) {
+  var doc = '';
+  req.on('data', function(data) { doc += data; });
+  req.on('end', function() {
+    var path = __dirname + '/public/' + docPath(req, addPath, ending);
+    fs.writeFile(path, doc, function() { res.end(); });
+  });
 }
 
 app.all('*', function(req, res, next) {
@@ -19,8 +33,16 @@ app.get('/examples/treebanks/:doc', function(req, res) {
   sendFile(req, res, 'treebanks', 'xml');
 });
 
+app.post('/examples/treebanks/:doc', function(req, res) {
+  writeFile(req, res, 'treebanks', 'xml');
+});
+
 app.get('/examples/translations/:doc', function(req, res) {
   sendFile(req, res, 'translations', 'json');
+});
+
+app.post('/examples/translations/:doc', function(req, res) {
+  writeFile(req, res, 'translations', 'json');
 });
 
 
