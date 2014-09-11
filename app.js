@@ -18,7 +18,7 @@ app.get('/examples/translations/:doc', function(req, res) {
 });
 
 
-var port = process.argv[2] || 8083;
+var port = process.argv[2] || 8082;
 var server = app.listen(port, function() {
   console.log('arethusa-server listening on port %d...', server.address().port);
 });
