@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="lat" format="aldt" version="1.5">
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="Gallia" lemma="" postag="" relation="" head=""/>
+      <word id="2" form="est" lemma="" postag="" relation="" head=""/>
+      <word id="3" form="omnis" lemma="" postag="" relation="" head=""/>
+      <word id="4" form="divisa" lemma="" postag="" relation="" head=""/>
+      <word id="5" form="in" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="partes" lemma="" postag="" relation="" head=""/>
+      <word id="7" form="tres" lemma="" postag="" relation="" head=""/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="" subdoc="" span="">
+      <word id="1" form="Quarum" lemma="qui2" postag="p-p---fg-" relation="ATR" head="2"/>
+      <word id="2" form="unam" lemma="unus" postag="a-s---fa-" relation="OBJ" head="3"/>
+      <word id="3" form="incolunt" lemma="incolo1" postag="v3ppia---" relation="PRED"
+            head="0"/>
+      <word id="4" form="Belgae" lemma="" postag="" relation="SBJ" head="3"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
