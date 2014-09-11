@@ -9,6 +9,11 @@ function sendFile(req, res, addPath, ending) {
   res.sendFile(addPath + '/' + req.params.doc + '.' + ending, options);
 }
 
+app.all('*', function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  next();
+});
+
 app.get('/examples/treebanks/:doc', function(req, res) {
   sendFile(req, res, 'treebanks', 'xml');
 });
