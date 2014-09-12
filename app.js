@@ -27,7 +27,10 @@ app.all('*', function(req, res, next) {
 
 var exampleFileRoutes = {
   'treebanks': 'xml',
-  'translations': 'json'
+  'translations': 'json',
+
+  'treebanks/phaidra': 'json',
+  'translations/phaidra': 'json'
 };
 
 function get(route, fileType) {
