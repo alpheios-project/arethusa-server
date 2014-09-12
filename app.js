@@ -6,7 +6,13 @@ function docPath(req, addPath, ending) {
   return __dirname + '/public/' + addPath + '/' + req.params.doc + '.' + ending;
 }
 
+var contentTypes = {
+  'xml' : 'text/xml; charset=utf-8',
+  'json' : 'application/json; charset=utf-8'
+};
+
 function sendFile(req, res, addPath, ending) {
+  res.header('Content-Type', contentTypes[ending]);
   res.sendFile(docPath(req, addPath, ending));
 }
 
