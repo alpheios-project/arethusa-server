@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="grc" format="aldt" version="1.5">
+   <date>Fri Sep 12 14:12:12 +0000 2014</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services.perseids.org/llt/segtok</uri>
+   </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+   </annotator>
+   <annotator>
+      <short>Robert Lichtensteiner</short>
+      <name>Robert Lichtensteiner</name>
+      <address>robert.lichtensteiner@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Robert%20Lichtensteiner</uri>
+   </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3"/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="ADV" head="6"/>
+      <word id="3" form="Ἀθηναῖοι" lemma="Ἀθηναῖος" postag="a-p---mn-" relation="SBJ"
+            head="6"/>
+      <word id="4" form="τρόπῳ" lemma="τρόπος" postag="n-s---md-" relation="ADV" head="6"/>
+      <word id="5" form="τοιῷδε" lemma="τοιόσδε" postag="p-s---md-" relation="ATR" head="4"/>
+      <word id="6" form="ἦλθον" lemma="ἔρχομαι" postag="v3paia---" relation="PRED" head="0"/>
+      <word id="7" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="6"/>
+      <word id="8" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="9"/>
+      <word id="9" form="πράγματα" lemma="πρᾶγμα" postag="n-p---na-" relation="ADV"
+            head="7"/>
+      <word id="10" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="12"/>
+      <word id="11" form="οἷς" lemma="ὅς" postag="p-p---nd-" relation="ATR" head="10"/>
+      <word id="12" form="ηὐξήθησαν" lemma="αὐξάνω" postag="v3paip---" relation="ATR"
+            head="9"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
