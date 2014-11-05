@@ -1,0 +1,209 @@
+<body>
+  <div type="dramatis_personae">
+    <list>
+      <head>
+        <w lemma="the" n="2-a-0050" ana="#dt" reg="The" xml:id="A01057-000680">The</w>
+        <c> </c>
+        <w lemma="actor" n="2-a-0060" ana="#n2" reg="Actors" xml:id="A01057-000690">Actors</w>
+        <c> </c>
+        <w lemma="name" n="2-a-0070" ana="#n2" reg="Names" xml:id="A01057-000700">Names</w>
+        <pc n="2-a-0080" xml:id="A01057-000710" unit="sentence">.</pc>
+      </head>
+      <label>
+        <w lemma="Bonaventura" n="2-a-0090" ana="#np1" reg="Bonaventura" xml:id="A01057-000740">Bonauentura</w>
+        <pc n="2-a-0100" xml:id="A01057-000750">,</pc>
+      </label>
+      <item>
+        <w lemma="a" n="2-a-0110" ana="#dt" reg="A" xml:id="A01057-000780">A</w>
+        <c> </c>
+        <w lemma="friar" n="2-a-0120" ana="#n1" reg="Friar" xml:id="A01057-000790">Fryar</w>
+        <pc n="2-a-0130" xml:id="A01057-000800" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="a" n="2-a-0140" ana="#dt" reg="A" xml:id="A01057-000830">A</w>
+        <c> </c>
+        <w lemma="cardinal" n="2-a-0150" ana="#n1" reg="Cardinal" xml:id="A01057-000840">Cardinall</w>
+        <pc n="2-a-0160" xml:id="A01057-000850">,</pc>
+      </label>
+      <item>
+        <w lemma="nuntio" n="2-a-0170" ana="#n1" reg="Nuntio" xml:id="A01057-000880">Nuntio</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0180" ana="#p-acp" reg="to" xml:id="A01057-000890">to</w>
+        <c> </c>
+        <w lemma="the" n="2-a-0190" ana="#dt" reg="the" xml:id="A01057-000900">the</w>
+        <c> </c>
+        <w lemma="pope" n="2-a-0200" ana="#n1" reg="Pope" xml:id="A01057-000910">Pope</w>
+        <pc n="2-a-0210" xml:id="A01057-000920" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="Soranzo" n="2-a-0220" ana="#np1" reg="Soranzo" xml:id="A01057-000950">Soranzo</w>
+        <pc n="2-a-0230" xml:id="A01057-000960">,</pc>
+      </label>
+      <item>
+        <w lemma="a" n="2-a-0240" ana="#dt" reg="A" xml:id="A01057-000990">A</w>
+        <c> </c>
+        <w lemma="nobleman" n="2-a-0250" ana="#n1" reg="Nobleman" xml:id="A01057-001000">Nobleman</w>
+        <pc n="2-a-0260" xml:id="A01057-001010" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="Florio" n="2-a-0270" ana="#np1" reg="Florio" xml:id="A01057-001040">Florio</w>
+        <pc n="2-a-0280" xml:id="A01057-001050">,</pc>
+      </label>
+      <item>
+        <w lemma="a" n="2-a-0290" ana="#dt" reg="A" xml:id="A01057-001080">A</w>
+        <c> </c>
+        <w lemma="citizen" n="2-a-0300" ana="#n1" reg="Citizen" xml:id="A01057-001090">Cittizen</w>
+        <c> </c>
+        <w lemma="of" n="2-a-0310" ana="#pp-f" reg="of" xml:id="A01057-001100">of</w>
+        <c> </c>
+        <w lemma="Parma" n="2-a-0320" ana="#np1" reg="Parma" xml:id="A01057-001110">Parma</w>
+        <pc n="2-a-0330" xml:id="A01057-001120" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+      <label>
+        <w lemma="Donado" n="2-a-0340" ana="#np1" reg="Donado" xml:id="A01057-001150">Donado</w>
+        <pc n="2-a-0350" xml:id="A01057-001160">,</pc>
+      </label>
+      <item>
+        <w lemma="another" n="2-a-0360" ana="#j-jn" reg="Another" xml:id="A01057-001190">Another</w>
+        <c> </c>
+        <w lemma="citizen" n="2-a-0370" ana="#n1" reg="Citizen" xml:id="A01057-001200">Cittizen</w>
+        <pc n="2-a-0380" xml:id="A01057-001210" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="Grimaldi" n="2-a-0390" ana="#np1" reg="Grimaldi" xml:id="A01057-001240">Grimaldi</w>
+        <pc n="2-a-0400" xml:id="A01057-001250">,</pc>
+      </label>
+      <item>
+        <w lemma="a" n="2-a-0410" ana="#dt" reg="A" xml:id="A01057-001280">A</w>
+        <c> </c>
+        <w lemma="roman" n="2-a-0420" ana="#jp" reg="Roman" xml:id="A01057-001290">Roman</w>
+        <c> </c>
+        <w lemma="gentleman" n="2-a-0430" ana="#n1" reg="Gentleman" xml:id="A01057-001300">Gentleman</w>
+        <pc n="2-a-0440" xml:id="A01057-001310" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="Giovanni" n="2-a-0450" ana="#np1" reg="Giovanni" xml:id="A01057-001340">Giouanni</w>
+        <pc n="2-a-0460" xml:id="A01057-001350">,</pc>
+      </label>
+      <item>
+        <w lemma="son" n="2-a-0470" ana="#n1" reg="Son" xml:id="A01057-001380">Sonne</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0480" ana="#p-acp" reg="to" xml:id="A01057-001390">to</w>
+        <c> </c>
+        <w lemma="Florio" n="2-a-0490" ana="#np1" reg="Florio" xml:id="A01057-001400">Florio</w>
+        <pc n="2-a-0500" xml:id="A01057-001410" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+      <label>
+        <w lemma="Bergetto" n="2-a-0510" ana="#np1" reg="Bergetto" xml:id="A01057-001440">Bergetto</w>
+        <pc n="2-a-0520" xml:id="A01057-001450">,</pc>
+      </label>
+      <item>
+        <w lemma="nephew" n="2-a-0530" ana="#n1" reg="Nephew" xml:id="A01057-001480">Nephew</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0540" ana="#p-acp" reg="to" xml:id="A01057-001490">to</w>
+        <c> </c>
+        <w lemma="Donado" n="2-a-0550" ana="#np1" reg="Donado" xml:id="A01057-001500">Donado</w>
+        <pc n="2-a-0560" xml:id="A01057-001510" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+      <label>
+        <w lemma="Richardetto" n="2-a-0570" ana="#np1" reg="Richardetto" xml:id="A01057-001540">Richardetto</w>
+        <pc n="2-a-0580" xml:id="A01057-001550">,</pc>
+      </label>
+      <item>
+        <w lemma="a" n="2-a-0590" ana="#dt" reg="A" xml:id="A01057-001580">A</w>
+        <c> </c>
+        <w lemma="suppose" n="2-a-0600" ana="#j-vvn" reg="supposed" xml:id="A01057-001590">suppos'd</w>
+        <c> </c>
+        <w lemma="physician" n="2-a-0610" ana="#n1" reg="Physician" xml:id="A01057-001600">Phisitian</w>
+        <pc n="2-a-0620" xml:id="A01057-001610" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="Vasques" n="2-a-0630" ana="#np1" reg="Vasques" xml:id="A01057-001640">Vasques</w>
+        <pc n="2-a-0640" xml:id="A01057-001650">,</pc>
+      </label>
+      <item>
+        <w lemma="servant" n="2-a-0650" ana="#n1" reg="Servant" xml:id="A01057-001680">Seruant</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0660" ana="#p-acp" reg="to" xml:id="A01057-001690">to</w>
+        <c> </c>
+        <w lemma="Soranzo" n="2-a-0670" ana="#np1" reg="Soranzo" xml:id="A01057-001700">Soranzo</w>
+        <pc n="2-a-0680" xml:id="A01057-001710" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+      <label>
+        <w lemma="Poggio" n="2-a-0690" ana="#np1" reg="Poggio" xml:id="A01057-001740">Poggio</w>
+        <pc n="2-a-0700" xml:id="A01057-001750">,</pc>
+      </label>
+      <item>
+        <w lemma="servant" n="2-a-0710" ana="#n1" reg="Servant" xml:id="A01057-001780">Seruant</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0720" ana="#p-acp" reg="to" xml:id="A01057-001790">to</w>
+        <c> </c>
+        <w lemma="Bergetto" n="2-a-0730" ana="#np1" reg="Bergetto" xml:id="A01057-001800">Bergetto</w>
+        <pc n="2-a-0740" xml:id="A01057-001810" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+      <label>
+        <w lemma="bandit" n="2-a-0750" ana="#n2" reg="Bandetti" xml:id="A01057-001840">Bandetti</w>
+        <pc n="2-a-0760" xml:id="A01057-001850">,</pc>
+      </label>
+      <item/>
+    </list>
+    <list>
+      <head>
+        <w lemma="woman" n="2-a-0770" ana="#n2" reg="Women" xml:id="A01057-001900">Woemen</w>
+        <pc n="2-a-0780" xml:id="A01057-001910" unit="sentence">.</pc>
+      </head>
+      <label>
+        <w lemma="Annabella" n="2-a-0790" ana="#np1" reg="Annabella" xml:id="A01057-001940">Annabella</w>
+        <pc n="2-a-0800" xml:id="A01057-001950">,</pc>
+      </label>
+      <item>
+        <w lemma="daughter" n="2-a-0810" ana="#n1" reg="Daughter" xml:id="A01057-001980">Daughter</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0820" ana="#p-acp" reg="to" xml:id="A01057-001990">to</w>
+        <c> </c>
+        <w lemma="Florio" n="2-a-0830" ana="#np1" reg="Florio" xml:id="A01057-002000">Florio</w>
+        <pc n="2-a-0840" xml:id="A01057-002010" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+      <label>
+        <w lemma="Hippolita" n="2-a-0850" ana="#np1" reg="Hippolita" xml:id="A01057-002040">Hippolita</w>
+        <pc n="2-a-0860" xml:id="A01057-002050">,</pc>
+      </label>
+      <item>
+        <w lemma="wife" n="2-a-0870" ana="#n1" reg="Wife" xml:id="A01057-002080">Wife</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0880" ana="#p-acp" reg="to" xml:id="A01057-002090">to</w>
+        <c> </c>
+        <w lemma="Richardetto" n="2-a-0890" ana="#np1" reg="Richardetto" xml:id="A01057-002100" rend="hi">Richardetto</w>
+      </item>
+      <label>
+        <w lemma="Philotis" n="2-a-0900" ana="#np1" reg="Philotis" xml:id="A01057-002130">Philotis</w>
+        <pc n="2-a-0910" xml:id="A01057-002140">,</pc>
+      </label>
+      <item>
+        <w lemma="his" n="2-a-0920" ana="#po31" reg="His" xml:id="A01057-002170">His</w>
+        <c> </c>
+        <w lemma="niece" n="2-a-0930" ana="#n1" reg="Niece" xml:id="A01057-002180">Neece</w>
+        <pc n="2-a-0940" xml:id="A01057-002190" unit="sentence">.</pc>
+      </item>
+      <label>
+        <w lemma="Putana" n="2-a-0950" ana="#np1" reg="Putana" xml:id="A01057-002220">Putana</w>
+        <pc n="2-a-0960" xml:id="A01057-002230">,</pc>
+      </label>
+      <item>
+        <w lemma="tutoress" n="2-a-0970" ana="#n1" reg="Tutress" xml:id="A01057-002260">Tutresse</w>
+        <c> </c>
+        <w lemma="to" n="2-a-0980" ana="#p-acp" reg="to" xml:id="A01057-002270">to</w>
+        <c> </c>
+        <w lemma="Annabella" n="2-a-0990" ana="#np1" reg="Annabella" xml:id="A01057-002280">Annabella</w>
+        <pc n="2-a-1000" xml:id="A01057-002290" unit="sentence">.</pc>
+        <c> </c>
+      </item>
+    </list>
+  </div>
+</body>

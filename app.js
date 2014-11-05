@@ -34,6 +34,7 @@ app.all('*', function(req, res, next) {
 var exampleFileRoutes = {
   'treebanks': 'xml',
   'translations': 'json',
+  'tei' : 'xml',
 
   'treebanks/phaidra': 'json',
   'translations/phaidra': 'json'

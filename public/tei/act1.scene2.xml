@@ -1,0 +1,443 @@
+<body>
+  <stage>
+    Enter Grimaldi and Vasques ready to fight
+  </stage>
+  <sp xml:id="A01057-s10170" who="A01057-vasques">
+    <speaker>
+      Vas.
+    </speaker>
+    <l>
+      <w lemma="Come" n="5-b-2840" ana="#vvb" reg="Come" xml:id="A01057-015380">Come</w>
+      <c> </c>
+      <w lemma="sir" n="5-b-2850" ana="#n11" reg="sir" xml:id="A01057-015390">sir</w>
+      <pc n="5-b-2860" xml:id="A01057-015400">,</pc>
+      <c> </c>
+      <w lemma="stand" n="5-b-2870" ana="#vvb" reg="stand" xml:id="A01057-015410">stand</w>
+      <c> </c>
+      <w lemma="to" n="5-b-2880" ana="#p-acp" reg="to" xml:id="A01057-015420">to</w>
+      <c> </c>
+      <w lemma="your" n="5-b-2890" ana="#po22" reg="your" xml:id="A01057-015430">your</w>
+      <c> </c>
+      <w lemma="tackle" n="5-b-2900" ana="#n-vvg" reg="tackling" xml:id="A01057-015440">tackling</w>
+      <pc n="5-b-2910" xml:id="A01057-015450">,</pc>
+      <c> </c>
+      <w lemma="if" n="5-b-2920" ana="#cs" reg="if" xml:id="A01057-015460">if</w>
+      <c> </c>
+      <w lemma="you" n="5-b-2930" ana="#pn22" reg="you" xml:id="A01057-015470">you</w>
+      <c> </c>
+      <w lemma="prove" n="5-b-2940" ana="#vvb" reg="prove" xml:id="A01057-015480">proue</w>
+      <c> </c>
+      <w lemma="craven" n="5-b-2950" ana="#j-jn" reg="Craven" xml:id="A01057-015490">Crauen</w>
+      <pc n="5-b-2960" xml:id="A01057-015500">,</pc>
+    </l>
+    <l>
+      <w lemma="I|will" n="5-b-2970" ana="#pns11|vmb" reg="I'll" xml:id="A01057-015510">I'le</w>
+      <c> </c>
+      <w lemma="make" n="5-b-2980" ana="#vvi" reg="make" xml:id="A01057-015520">make</w>
+      <c> </c>
+      <w lemma="you" n="5-b-2990" ana="#pn22" reg="you" xml:id="A01057-015530">you</w>
+      <c> </c>
+      <w lemma="run" n="5-b-3000" ana="#vvb" reg="run" xml:id="A01057-015540">run</w>
+      <c> </c>
+      <w lemma="quick" n="5-b-3010" ana="#av-j" reg="quickly" xml:id="A01057-015550">quickly</w>
+      <pc n="5-b-3020" xml:id="A01057-015560" unit="sentence">.</pc>
+      <c> </c>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10180" who="A01057-grimaldi">
+    <speaker>
+      Gri.
+    </speaker>
+    <l>
+      <w lemma="thou" n="5-b-3050" ana="#pns21" reg="Thou" xml:id="A01057-015630">Thou</w>
+      <c> </c>
+      <w lemma="be" n="5-b-3060" ana="#vb2r" reg="art" xml:id="A01057-015640">art</w>
+      <c> </c>
+      <w lemma="no" n="5-b-3070" ana="#dx" reg="no" xml:id="A01057-015650">no</w>
+      <c> </c>
+      <w lemma="equal" n="5-b-3080" ana="#j-jn" reg="equal" xml:id="A01057-015660">equall</w>
+      <c> </c>
+      <w lemma="match" n="5-b-3090" ana="#n1" reg="match" xml:id="A01057-015670">match</w>
+      <c> </c>
+      <w lemma="for" n="5-b-3100" ana="#p-acp" reg="for" xml:id="A01057-015680">for</w>
+      <c> </c>
+      <w lemma="i" n="5-b-3110" ana="#pno11" reg="me" xml:id="A01057-015690">mee</w>
+      <pc n="5-b-3120" xml:id="A01057-015700" unit="sentence">.</pc>
+      <c> </c>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10190" who="A01057-vasques">
+    <speaker>
+      Vas.
+    </speaker>
+    <l>
+      <w lemma="Indeed" n="5-b-3150" ana="#av" reg="Indeed" xml:id="A01057-015780">Indeed</w>
+      <c> </c>
+      <w lemma="I" n="5-b-3160" ana="#pns11" reg="I" xml:id="A01057-015790">I</w>
+      <c> </c>
+      <w lemma="never" n="5-b-3170" ana="#av-x" reg="never" xml:id="A01057-015800">neuer</w>
+      <c> </c>
+      <w lemma="go" n="5-b-3180" ana="#vvd" reg="went" xml:id="A01057-015810">went</w>
+      <c> </c>
+      <w lemma="to" n="5-b-3190" ana="#p-acp" reg="to" xml:id="A01057-015820">to</w>
+      <c> </c>
+      <w lemma="the" n="5-b-3200" ana="#dt" reg="the" xml:id="A01057-015830">the</w>
+      <c> </c>
+      <w lemma="war" n="5-b-3210" ana="#n2" reg="wars" xml:id="A01057-015840">warres</w>
+      <c> </c>
+      <w lemma="to" n="5-b-3220" ana="#pc-acp" reg="to" xml:id="A01057-015850">to</w>
+      <c> </c>
+      <w lemma="bring" n="5-b-3230" ana="#vvi" reg="bring" xml:id="A01057-015860">bring</w>
+      <c> </c>
+      <w lemma="home" n="5-b-3240" ana="#av-n" reg="home" xml:id="A01057-015870">home</w>
+      <c> </c>
+      <w lemma="news" n="5-b-3250" ana="#n1" reg="news" xml:id="A01057-015880">newes</w>
+      <pc n="5-b-3260" xml:id="A01057-015890">,</pc>
+      <c> </c>
+      <w lemma="nor" n="5-b-3270" ana="#ccx" reg="nor" xml:id="A01057-015900">nor</w>
+      <c> </c>
+      <w lemma="can" n="5-b-3280" ana="#vmbx" reg="cannot" xml:id="A01057-015910">cannot</w>
+      <c> </c>
+      <w lemma="play" n="5-b-3290" ana="#vvi" reg="play" xml:id="A01057-015920">play</w>
+      <c> </c>
+      <w lemma="the" n="5-b-3300" ana="#dt" reg="the" xml:id="A01057-015930">the</w>
+      <c> </c>
+      <w lemma="mountebank" n="5-b-3310" ana="#n1" reg="mountebank" xml:id="A01057-015940">Mountibanke</w>
+      <c> </c>
+      <w lemma="for" n="5-b-3320" ana="#p-acp" reg="for" xml:id="A01057-015950">for</w>
+      <c> </c>
+      <w lemma="a" n="5-b-3330" ana="#dt" reg="a" xml:id="A01057-015960">a</w>
+      <c> </c>
+      <w lemma="meal" n="5-b-3340" ana="#ng1" reg="meal's" xml:id="A01057-015970">meales</w>
+      <c> </c>
+      <w lemma="meat" n="5-b-3350" ana="#n1" reg="meat" xml:id="A01057-015980">meate</w>
+      <pc n="5-b-3360" xml:id="A01057-015990">,</pc>
+      <c> </c>
+      <w lemma="and" n="5-b-3370" ana="#cc" reg="and" xml:id="A01057-016000">and</w>
+      <c> </c>
+      <w lemma="swear" n="5-b-3380" ana="#vvb" reg="swear" xml:id="A01057-016010">sweare</w>
+      <c> </c>
+      <w lemma="I" n="5-b-3390" ana="#pns11" reg="I" xml:id="A01057-016020">I</w>
+      <c> </c>
+      <w lemma="get" n="5-b-3400" ana="#vvd" reg="got" xml:id="A01057-016030">got</w>
+      <c> </c>
+      <w lemma="my" n="5-b-3410" ana="#po11" reg="my" xml:id="A01057-016040">my</w>
+      <c> </c>
+      <w lemma="wound" n="5-b-3420" ana="#n2" reg="wounds" xml:id="A01057-016050">wounds</w>
+      <c> </c>
+      <w lemma="in" n="5-b-3430" ana="#p-acp" reg="in" xml:id="A01057-016060">in</w>
+      <c> </c>
+      <w lemma="the" n="5-b-3440" ana="#dt" reg="the" xml:id="A01057-016070">the</w>
+      <c> </c>
+      <w lemma="field" n="5-b-3450" ana="#n1" reg="field" xml:id="A01057-016080">field</w>
+      <pc n="5-b-3460" xml:id="A01057-016090">:</pc>
+      <c> </c>
+      <w lemma="see" n="5-b-3470" ana="#vvb" reg="see" xml:id="A01057-016100">see</w>
+      <c> </c>
+      <w lemma="you" n="5-b-3480" ana="#pn22" reg="you" xml:id="A01057-016110">you</w>
+      <c> </c>
+      <w lemma="these" n="5-b-3490" ana="#d" reg="these" xml:id="A01057-016120">these</w>
+      <c> </c>
+      <w lemma="grey" n="5-b-3500" ana="#j-jn" reg="grey" xml:id="A01057-016130">gray</w>
+      <c> </c>
+      <w lemma="hair" n="5-b-3510" ana="#n2" reg="hairs" xml:id="A01057-016140">haires</w>
+      <pc n="5-b-3520" xml:id="A01057-016150">,</pc>
+      <c> </c>
+      <w lemma="they|will" n="5-b-3530" ana="#pns32|vmb" reg="they'll" xml:id="A01057-016160">they'le</w>
+      <c> </c>
+      <w lemma="not" n="5-b-3540" ana="#xx" reg="not" xml:id="A01057-016170">not</w>
+      <c> </c>
+      <w lemma="flinch" n="5-b-3550" ana="#vvi" reg="flinch" xml:id="A01057-016180">flinch</w>
+      <c> </c>
+      <w lemma="for" n="5-b-3560" ana="#p-acp" reg="for" xml:id="A01057-016190">for</w>
+      <c> </c>
+      <w lemma="a" n="5-b-3570" ana="#dt" reg="a" xml:id="A01057-016200">a</w>
+      <c> </c>
+      <w lemma="bloody" n="5-b-3580" ana="#j" reg="bloody" xml:id="A01057-016210">bloody</w>
+      <c> </c>
+      <w lemma="nose" n="5-b-3590" ana="#n1" reg="nose" xml:id="A01057-016220">nose</w>
+      <pc n="5-b-3600" xml:id="A01057-016230">,</pc>
+      <c> </c>
+      <w lemma="will" n="5-b-3610" ana="#vm2" reg="wilt" xml:id="A01057-016240">wilt</w>
+      <c> </c>
+      <w lemma="thou" n="5-b-3620" ana="#pns21" reg="thou" xml:id="A01057-016250">thou</w>
+      <c> </c>
+      <w lemma="to" n="5-b-3630" ana="#p-acp" reg="to" xml:id="A01057-016260">to</w>
+      <c> </c>
+      <w lemma="this" n="5-b-3640" ana="#d" reg="this" xml:id="A01057-016270">this</w>
+      <c> </c>
+      <w lemma="gear" n="5-b-3650" ana="#n1" reg="gear" xml:id="A01057-016280">geere</w>
+      <pc n="5-b-3660" xml:id="A01057-016290" unit="sentence">?</pc>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10200" who="A01057-grimaldi">
+    <speaker>
+      Gri.
+    </speaker>
+    <l>
+      <w lemma="why" n="5-b-3690" ana="#q-crq" reg="Why" xml:id="A01057-016370">Why</w>
+      <c> </c>
+      <w lemma="slave" n="5-b-3700" ana="#n1" reg="slave" xml:id="A01057-016380">slaue</w>
+      <pc n="5-b-3710" xml:id="A01057-016390">,</pc>
+      <c> </c>
+      <w lemma="think" n="5-b-3720" ana="#vv2" reg="thinkest" xml:id="A01057-016400">think'st</w>
+      <c> </c>
+      <w lemma="thou" n="5-b-3730" ana="#pns21" reg="thou" xml:id="A01057-016410">thou</w>
+      <c> </c>
+      <w lemma="I|will" n="5-b-3740" ana="#pns11|vmb" reg="I'll" xml:id="A01057-016420">I'le</w>
+      <c> </c>
+      <w lemma="balance" n="5-b-3750" ana="#vvb" reg="balance" xml:id="A01057-016430">ballance</w>
+      <c> </c>
+      <w lemma="my" n="5-b-3760" ana="#po11" reg="my" xml:id="A01057-016440">my</w>
+      <c> </c>
+      <w lemma="reputation" n="5-b-3770" ana="#n1" reg="reputation" xml:id="A01057-016450">reputation</w>
+      <pb facs="6"/>
+      <c> </c>
+      <w lemma="with" n="6-a-0010" ana="#p-acp" reg="With" xml:id="A01057-016460">With</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0020" ana="#dt" reg="a" xml:id="A01057-016470">a</w>
+      <c> </c>
+      <w lemma="cast-suit" n="6-a-0030" ana="#n1" reg="cast-suit" xml:id="A01057-016480">Cast-suite</w>
+      <pc n="6-a-0040" xml:id="A01057-016490">;</pc>
+      <c> </c>
+      <w lemma="call" n="6-a-0050" ana="#vvb" reg="Call" xml:id="A01057-016500">Call</w>
+      <c> </c>
+      <w lemma="thy" n="6-a-0060" ana="#po21" reg="thy" xml:id="A01057-016510">thy</w>
+      <c> </c>
+      <w lemma="master" n="6-a-0070" ana="#n1" reg="Master" xml:id="A01057-016520">Maister</w>
+      <pc n="6-a-0080" xml:id="A01057-016530">,</pc>
+      <c> </c>
+      <w lemma="he" n="6-a-0090" ana="#pns31" reg="he" xml:id="A01057-016540">he</w>
+      <c> </c>
+      <w lemma="shall" n="6-a-0100" ana="#vmb" reg="shall" xml:id="A01057-016550">shall</w>
+      <c> </c>
+      <w lemma="know" n="6-a-0110" ana="#vvi" reg="know" xml:id="A01057-016560">know</w>
+      <c> </c>
+      <w lemma="that" n="6-a-0120" ana="#cst" reg="that" xml:id="A01057-016570">that</w>
+      <c> </c>
+      <w lemma="I" n="6-a-0130" ana="#pns11" reg="I" xml:id="A01057-016580">I</w>
+      <c> </c>
+      <w lemma="dare" n="6-a-0140" ana="#vvb" reg="dare" xml:id="A01057-016590">dare</w>
+      <c> </c>
+      <pc n="6-a-0150" xml:id="A01057-016600" unit="sentence">—</pc>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10210" who="A01057-vasques">
+    <speaker>
+      Vas.
+    </speaker>
+    <l>
+      <w lemma="scold" n="6-a-0180" ana="#vvb" reg="Scold" xml:id="A01057-016680">Scold</w>
+      <c> </c>
+      <w lemma="like" n="6-a-0190" ana="#av-j" reg="like" xml:id="A01057-016690">like</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0200" ana="#dt" reg="a" xml:id="A01057-016700">a</w>
+      <c> </c>
+      <w lemma="cotquean" n="6-a-0210" ana="#n1" reg="Cotquean" xml:id="A01057-016710">Cot-queane</w>
+      <c> </c>
+      <pc n="6-a-0220" xml:id="A01057-016720">(</pc>
+      <w lemma="that|be" n="6-a-0230" ana="#cst|vbz" reg="that's" xml:id="A01057-016730">that's</w>
+      <c> </c>
+      <w lemma="your" n="6-a-0240" ana="#po22" reg="your" xml:id="A01057-016740">your</w>
+      <c> </c>
+      <w lemma="profession" n="6-a-0250" ana="#n1" reg="Profession" xml:id="A01057-016750">Profession</w>
+      <pc n="6-a-0260" xml:id="A01057-016760">)</pc>
+      <c> </c>
+      <w lemma="thou" n="6-a-0270" ana="#pns21" reg="thou" xml:id="A01057-016770">thou</w>
+      <c> </c>
+      <w lemma="poor" n="6-a-0280" ana="#j" reg="poor" xml:id="A01057-016780">poore</w>
+      <c> </c>
+      <w lemma="shadow" n="6-a-0290" ana="#n1" reg="shadow" xml:id="A01057-016790">shaddow</w>
+      <c> </c>
+      <w lemma="of" n="6-a-0300" ana="#pp-f" reg="of" xml:id="A01057-016800">of</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0310" ana="#dt" reg="a" xml:id="A01057-016810">a</w>
+      <c> </c>
+      <w lemma="soldier" n="6-a-0320" ana="#n1" reg="Soldier" xml:id="A01057-016820">Souldier</w>
+      <pc n="6-a-0330" xml:id="A01057-016830">,</pc>
+      <c> </c>
+      <w lemma="I" n="6-a-0340" ana="#pns11" reg="I" xml:id="A01057-016840">I</w>
+      <c> </c>
+      <w lemma="will" n="6-a-0350" ana="#vmb" reg="will" xml:id="A01057-016850">will</w>
+      <c> </c>
+      <w lemma="make" n="6-a-0360" ana="#vvi" reg="make" xml:id="A01057-016860">make</w>
+      <c> </c>
+      <w lemma="thou" n="6-a-0370" ana="#pno21" reg="thee" xml:id="A01057-016870">thee</w>
+      <c> </c>
+      <w lemma="know" n="6-a-0380" ana="#vvi" reg="know" xml:id="A01057-016880">know</w>
+      <pc n="6-a-0390" xml:id="A01057-016890">,</pc>
+      <c> </c>
+      <w lemma="my" n="6-a-0400" ana="#po11" reg="my" xml:id="A01057-016900">my</w>
+      <c> </c>
+      <w lemma="master" n="6-a-0410" ana="#n1" reg="Master" xml:id="A01057-016910">Maister</w>
+      <c> </c>
+      <w lemma="keep" n="6-a-0420" ana="#vvz" reg="keeps" xml:id="A01057-016920">keepes</w>
+      <c> </c>
+      <w lemma="servant" n="6-a-0430" ana="#n2" reg="Servants" xml:id="A01057-016930">Seruants</w>
+      <pc n="6-a-0440" xml:id="A01057-016940">,</pc>
+      <c> </c>
+      <w lemma="thy" n="6-a-0450" ana="#po21" reg="thy" xml:id="A01057-016950">thy</w>
+      <c> </c>
+      <w lemma="better" n="6-a-0460" ana="#n2-j" reg="betters" xml:id="A01057-016960">betters</w>
+      <c> </c>
+      <w lemma="in" n="6-a-0470" ana="#p-acp" reg="in" xml:id="A01057-016970">in</w>
+      <c> </c>
+      <w lemma="quality" n="6-a-0480" ana="#n1" reg="quality" xml:id="A01057-016980">quality</w>
+      <c> </c>
+      <w lemma="and" n="6-a-0490" ana="#cc" reg="and" xml:id="A01057-016990">and</w>
+      <c> </c>
+      <w lemma="performance" n="6-a-0500" ana="#n1" reg="performance" xml:id="A01057-017000">performance</w>
+      <pc n="6-a-0510" xml:id="A01057-017010">:</pc>
+      <c> </c>
+      <w lemma="come" n="6-a-0520" ana="#vv2" reg="Comest" xml:id="A01057-017020">Com'st</w>
+      <c> </c>
+      <w lemma="thou" n="6-a-0530" ana="#pns21" reg="thou" xml:id="A01057-017030">thou</w>
+      <c> </c>
+      <w lemma="to" n="6-a-0540" ana="#pc-acp" reg="to" xml:id="A01057-017040">to</w>
+      <c> </c>
+      <w lemma="fight" n="6-a-0550" ana="#vvi" reg="fight" xml:id="A01057-017050">fight</w>
+      <c> </c>
+      <w lemma="or" n="6-a-0560" ana="#cc" reg="or" xml:id="A01057-017060">or</w>
+      <c> </c>
+      <w lemma="prate" n="6-a-0570" ana="#vvi" reg="prate" xml:id="A01057-017070">prate</w>
+      <pc n="6-a-0580" xml:id="A01057-017080" unit="sentence">?</pc>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10220" who="A01057-grimaldi">
+    <speaker>
+      Gri.
+    </speaker>
+    <l>
+      <w lemma="neither" n="6-a-0610" ana="#av-d" reg="Neither" xml:id="A01057-017150">Neither</w>
+      <c> </c>
+      <w lemma="with" n="6-a-0620" ana="#p-acp" reg="with" xml:id="A01057-017160">with</w>
+      <c> </c>
+      <w lemma="thou" n="6-a-0630" ana="#pno21" reg="thee" xml:id="A01057-017170">thee</w>
+      <pc n="6-a-0640" xml:id="A01057-017180">,</pc>
+    </l>
+    <l>
+      <w lemma="I" n="6-a-0650" ana="#pns11" reg="I" xml:id="A01057-017190">I</w>
+      <c> </c>
+      <w lemma="be" n="6-a-0660" ana="#vbm" reg="am" xml:id="A01057-017200">am</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0670" ana="#dt" reg="a" xml:id="A01057-017210">a</w>
+      <c> </c>
+      <w lemma="roman" n="6-a-0680" ana="#jp" reg="Roman" xml:id="A01057-017220">Romane</w>
+      <pc n="6-a-0690" xml:id="A01057-017230">.</pc>
+      <c> </c>
+      <w lemma="and" n="6-a-0700" ana="#cc" reg="and" xml:id="A01057-017240">and</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0710" ana="#dt" reg="a" xml:id="A01057-017250">a</w>
+      <c> </c>
+      <w lemma="gentleman" n="6-a-0720" ana="#n1" reg="Gentleman" xml:id="A01057-017260">Gentleman</w>
+      <pc n="6-a-0730" xml:id="A01057-017270">,</pc>
+      <c> </c>
+      <w lemma="one" n="6-a-0740" ana="#pi" reg="one" xml:id="A01057-017280">one</w>
+      <c> </c>
+      <w lemma="that" n="6-a-0750" ana="#cst" reg="that" xml:id="A01057-017290">that</w>
+      <c> </c>
+      <w lemma="have" n="6-a-0760" ana="#vhb" reg="have" xml:id="A01057-017300">haue</w>
+      <c> </c>
+      <w lemma="get" n="6-a-0770" ana="#vvn" reg="got" xml:id="A01057-017310">got</w>
+    </l>
+    <l>
+      <w lemma="my" n="6-a-0780" ana="#po11" reg="Mine" xml:id="A01057-017320">Mine</w>
+      <c> </c>
+      <w lemma="honour" n="6-a-0790" ana="#n1" reg="honour" xml:id="A01057-017330">honour</w>
+      <c> </c>
+      <w lemma="with" n="6-a-0800" ana="#p-acp" reg="with" xml:id="A01057-017340">with</w>
+      <c> </c>
+      <w lemma="expense" n="6-a-0810" ana="#n1" reg="expense" xml:id="A01057-017350">expence</w>
+      <c> </c>
+      <w lemma="of" n="6-a-0820" ana="#pp-f" reg="of" xml:id="A01057-017360">of</w>
+      <c> </c>
+      <w lemma="blood" n="6-a-0830" ana="#n1" reg="blood" xml:id="A01057-017370">blood</w>
+      <pc n="6-a-0840" xml:id="A01057-017380" unit="sentence">,</pc>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10230" who="A01057-vasques">
+    <speaker>
+      Vas.
+    </speaker>
+    <l>
+      <w lemma="you" n="6-a-0870" ana="#pn22" reg="You" xml:id="A01057-017450">You</w>
+      <c> </c>
+      <w lemma="be" n="6-a-0880" ana="#vbr" reg="are" xml:id="A01057-017460">are</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0890" ana="#dt" reg="a" xml:id="A01057-017470">a</w>
+      <c> </c>
+      <w lemma="lie" n="6-a-0900" ana="#j-vvg" reg="lying" xml:id="A01057-017480">lying</w>
+      <c> </c>
+      <w lemma="coward" n="6-a-0910" ana="#n1" reg="Coward" xml:id="A01057-017490">Coward</w>
+      <pc n="6-a-0920" xml:id="A01057-017500">,</pc>
+      <c> </c>
+      <w lemma="and" n="6-a-0930" ana="#cc" reg="and" xml:id="A01057-017510">and</w>
+      <c> </c>
+      <w lemma="a" n="6-a-0940" ana="#dt" reg="a" xml:id="A01057-017520">a</w>
+      <c> </c>
+      <w lemma="fool" n="6-a-0950" ana="#n1" reg="fool" xml:id="A01057-017530">foole</w>
+      <pc n="6-a-0960" xml:id="A01057-017540">,</pc>
+      <c> </c>
+      <w lemma="fight" n="6-a-0970" ana="#n1" reg="fight" xml:id="A01057-017550">fight</w>
+      <pc n="6-a-0980" xml:id="A01057-017560">,</pc>
+      <c> </c>
+      <w lemma="or" n="6-a-0990" ana="#cc" reg="or" xml:id="A01057-017570">or</w>
+      <c> </c>
+      <w lemma="by" n="6-a-1000" ana="#p-acp" reg="by" xml:id="A01057-017580">by</w>
+      <c> </c>
+      <w lemma="these" n="6-a-1010" ana="#d" reg="these" xml:id="A01057-017590">these</w>
+      <c> </c>
+      <w lemma="hilt" n="6-a-1020" ana="#n2" reg="Hilts" xml:id="A01057-017600">Hilts</w>
+    </l>
+    <l>
+      <w lemma="I|will" n="6-a-1030" ana="#pns11|vmb" reg="I'll" xml:id="A01057-017610">I'le</w>
+      <c> </c>
+      <w lemma="kill" n="6-a-1040" ana="#vvi" reg="kill" xml:id="A01057-017620">kill</w>
+      <c> </c>
+      <w lemma="thou" n="6-a-1050" ana="#pno21" reg="thee" xml:id="A01057-017630">thee</w>
+      <c> </c>
+      <pc n="6-a-1060" xml:id="A01057-017640">—</pc>
+      <c> </c>
+      <w lemma="brave" n="6-a-1070" ana="#j" reg="brave" xml:id="A01057-017650">braue</w>
+      <c> </c>
+      <w lemma="my" n="6-a-1080" ana="#po11" reg="my" xml:id="A01057-017660">my</w>
+      <c> </c>
+      <w lemma="lord" n="6-a-1090" ana="#n1" reg="Lord" xml:id="A01057-017670">Lord</w>
+      <pc n="6-a-1100" xml:id="A01057-017680">,</pc>
+      <c> </c>
+      <pc n="6-a-1110" xml:id="A01057-017690">—</pc>
+      <c> </c>
+      <w lemma="you|will" n="6-a-1120" ana="#pn22|vmb" reg="you'll" xml:id="A01057-017700">you'le</w>
+      <c> </c>
+      <w lemma="fight" n="6-a-1130" ana="#vvi" reg="fight" xml:id="A01057-017710">fight</w>
+      <pc n="6-a-1140" xml:id="A01057-017720" unit="sentence">.</pc>
+      <c> </c>
+    </l>
+  </sp>
+  <sp xml:id="A01057-s10240" who="A01057-grimaldi">
+    <speaker>
+      Gri.
+    </speaker>
+    <l>
+      <w lemma="provoke" n="6-a-1170" ana="#vvb" reg="Provoke" xml:id="A01057-017790">Prouoake</w>
+      <c> </c>
+      <w lemma="i" n="6-a-1180" ana="#pno11" reg="me" xml:id="A01057-017800">me</w>
+      <c> </c>
+      <w lemma="not" n="6-a-1190" ana="#xx" reg="not" xml:id="A01057-017810">not</w>
+      <pc n="6-a-1200" xml:id="A01057-017820">,</pc>
+      <c> </c>
+      <w lemma="for" n="6-a-1210" ana="#c-acp" reg="for" xml:id="A01057-017830">for</w>
+      <c> </c>
+      <w lemma="if" n="6-a-1220" ana="#cs" reg="if" xml:id="A01057-017840">if</w>
+      <c> </c>
+      <w lemma="thou" n="6-a-1230" ana="#pns21" reg="thou" xml:id="A01057-017850">thou</w>
+      <c> </c>
+      <w lemma="do" n="6-a-1240" ana="#vd2" reg="dost" xml:id="A01057-017860">dost</w>
+      <c> </c>
+      <pc n="6-a-1250" xml:id="A01057-017870" unit="sentence">—</pc>
+    </l>
+  </sp>
+  <stage>
+    They fight, Grimal hath the worst
+  </stage>
+</body>
