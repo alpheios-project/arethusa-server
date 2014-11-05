@@ -35,6 +35,7 @@ var exampleFileRoutes = {
   'treebanks': 'xml',
   'translations': 'json',
   'tei' : 'xml',
+  'oa' : 'json',
 
   'treebanks/phaidra': 'json',
   'translations/phaidra': 'json'

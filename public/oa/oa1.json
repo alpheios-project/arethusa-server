@@ -1,0 +1,53 @@
+[
+  {
+    "@id": "http://perseids.org/perseids-annotator#0.0.1",
+    "@type": [
+      "http://www.w3.org/ns/prov#SoftwareAgent"
+    ]
+  },
+  {
+    "@id": "http://data.perseus.org/perseids/annotations/2558/3727/3729/3/2",
+    "@type": [
+      "http://www.w3.org/ns/oa#Annotation"
+    ],
+    "http://www.w3.org/ns/oa#annotatedAt": [
+      {
+        "@value": "2014-10-07T13:58:50+00:00"
+      }
+    ],
+    "http://www.w3.org/ns/oa#annotatedBy": [
+      {
+        "@id": "http://data.perseus.org/sosol/users/Bridget%20Almas"
+      }
+    ],
+    "http://www.w3.org/ns/oa#hasBody": [
+      {
+        "@id": "http://perseids.org/annotsrc/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.1-1.10@\u03bc\u1fc6\u03bd\u03b9\u03bd[1]-\u1f14\u03b8\u03b7\u03ba\u03b5[1]"
+      }
+    ],
+    "http://www.w3.org/ns/oa#hasTarget": [
+      {
+        "@id": "http://sosol.perseids.org/sosol/cts/getpassage/3727/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1.1@\u1f08\u03b8\u03ae\u03bd\u03b1\u03b9\u03bf\u03c2[1]-\u1f44\u03bd\u03bf\u03bc\u03b1[1]"
+      },
+      {
+        "@id": "http://sosol.perseids.org/sosol/cts/getpassage/3727/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1.1@\u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1\u03bd[1]-\u1f10\u03bc\u03bd\u03b7\u03bc\u03cc\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd[1]"
+      }
+    ],
+    "http://www.w3.org/ns/oa#motivatedBy": [
+      {
+        "@id": "oa:linking_translation"
+      }
+    ],
+    "http://www.w3.org/ns/oa#serializedBy": [
+      {
+        "@id": "http://perseids.org/perseids-annotator#0.0.1"
+      }
+    ]
+  },
+  {
+    "@id": "http://data.perseus.org/sosol/users/Bridget%20Almas",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ]
+  }
+]
